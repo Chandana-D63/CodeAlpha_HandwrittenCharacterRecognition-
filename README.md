@@ -122,10 +122,9 @@ Confidence: 98.45%
 
 **Chandana**
 
-CodeAlpha Internship Project
 
 ---
 
 ## 📜 License
 
-This project is developed for educational and learning purposes under the CodeAlpha Internship Program.
+This project is developed for educational and learning purposes.
